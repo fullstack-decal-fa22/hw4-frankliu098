@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.b6832693.css",
-    "main.js": "/react-gh-pages/static/js/main.933c8cba.js",
-    "static/js/787.263e14e4.chunk.js": "/react-gh-pages/static/js/787.263e14e4.chunk.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.b6832693.css.map": "/react-gh-pages/static/css/main.b6832693.css.map",
-    "main.933c8cba.js.map": "/react-gh-pages/static/js/main.933c8cba.js.map",
-    "787.263e14e4.chunk.js.map": "/react-gh-pages/static/js/787.263e14e4.chunk.js.map"
+    "main.css": "/hw4-frankliu098/static/css/main.b6832693.css",
+    "main.js": "/hw4-frankliu098/static/js/main.a5439a25.js",
+    "static/js/787.263e14e4.chunk.js": "/hw4-frankliu098/static/js/787.263e14e4.chunk.js",
+    "index.html": "/hw4-frankliu098/index.html",
+    "main.b6832693.css.map": "/hw4-frankliu098/static/css/main.b6832693.css.map",
+    "main.a5439a25.js.map": "/hw4-frankliu098/static/js/main.a5439a25.js.map",
+    "787.263e14e4.chunk.js.map": "/hw4-frankliu098/static/js/787.263e14e4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b6832693.css",
-    "static/js/main.933c8cba.js"
+    "static/js/main.a5439a25.js"
   ]
 }
